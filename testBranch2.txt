@@ -1,0 +1,2 @@
+This is new file created in testBranch2
+This is a test
